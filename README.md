@@ -16,12 +16,9 @@
 <img align="left" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="left" alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="left" alt="Numpy" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-<img align="left" alt="Pytorch" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg ">
 <img align="left" alt="Tensorflow" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="left" alt="OpenGL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg">
-<img align="left" alt="QT" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg ">
 <img align="left" alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="left" alt="Latex" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg ">
 <br>
 <br>
 <br>

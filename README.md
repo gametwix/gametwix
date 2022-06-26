@@ -1,16 +1,28 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&multiline=true&width=650&height=70&lines=Hi+there%2C+I'm+Pavel;I'm+computer+science+student+and+developer;%2F)](https://git.io/typing-svg)
 
-<!--
-**gametwix/gametwix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 📓 Now I'm learning backend development and Golang
+* 💡 I like to implement interesting ideas
+* 🔏 Bug bounty hunter in free time.
+* 🎯 Wasting my time to save other people's time.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img alt="Golang" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+<img alt="CMake" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
+<img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img alt="Numpy" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+<img alt="Pytorch" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg ">
+<img alt="Tensorflow" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+<img alt="OpenGL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg">
+<img alt="QT" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg ">
+<img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img alt="Latex" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg ">
+
+# Stats
+
+[![PAvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gametwix&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
